@@ -124,8 +124,7 @@ a {
 }
 
 #theme-btn { 
-  margin: 30px;
-  position: fixed;
-  bottom: 0;
-  right: 0;
+  margin: 5px;
+  position: relative;
+  float: right;
 }
